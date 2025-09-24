@@ -1,7 +1,9 @@
 #SALES OVERVIEW DASHBOARD
+
 This repository contains a dynamic and interactive sales performance dashboard created to provide key insights into business operations. The dashboard allows stakeholders to monitor sales trends, analyze performance across different dimensions, and make data-driven decisions.
 
 📊 Dashboard Overview
+
 The dashboard visualizes sales data to answer critical business questions, including:
 
 -Overall Sales Performance: How are our total sales performing?
@@ -17,15 +19,18 @@ The dashboard visualizes sales data to answer critical business questions, inclu
 -Team Performance: How are individual sales representatives contributing to the overall sales?
 
 📈 Key Features & Insights
--KPIs (Key Performance Indicators): A quick glance at total sales, quantity sold, total transactions, and average sales per transaction.
 
--Sales Trends: A line chart showing sales over time, revealing trends and seasonality.
+-KPIs (Key Performance Indicators): A quick glance at total sales, quantity sold, total transactions with unit cost and unit price.
 
--Regional Analysis: A bar chart that ranks sales performance by region.
+-Sales Trends: A line and column chart showing sales and discountover time, revealing trends, seasonality as well as how discounts affects the sales .
 
--Product & Channel Performance: A bar chart or pie chart illustrating sales contribution by product category and sales channel.
+-Regional Analysis: A donut chart that ranks sales performance by region.
+
+-Product Performance : A clustered bar chart illustrating total quatity sold in each category to track customer preference and trends .
 
 -Sales Rep Performance: A visual breakdown of sales contributions from each sales representative.
+
+-Payment Method and Channel Usage: Two key slicers convey trends in how customers are paying and channel used for this bussiness ,it wil help to analyze and understand the business 
 
 🛠️ Tools and Technologies
 -Data Source: sales_dataset.csv
