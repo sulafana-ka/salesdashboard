@@ -26,18 +26,20 @@ The dashboard visualizes sales data to answer critical business questions, inclu
 
 -Regional Analysis: A donut chart that ranks sales performance by region.
 
--Product Performance : A clustered bar chart illustrating total quatity sold in each category to track customer preference and trends .
+-Product Performance : A clustered bar chart illustrating total quantity sold in each category to track customer preference and trends .
 
 -Sales Rep Performance: A visual breakdown of sales contributions from each sales representative.
 
--Payment Method and Channel Usage: Two key slicers convey trends in how customers are paying and channel used for this bussiness ,it wil help to analyze and understand the business 
+-Payment Method and Channel Usage: Two key slicers convey trends in how customers are paying and channel used for this bussiness ,it wil help to analyze and understand the business. 
 
 🛠️ Tools and Technologies
+
 -Data Source: sales_dataset.csv
 
 -Visualization Tool: Power BI (.pbix file)
 
 📁 Repository Contents
+
 -sales_dataset.csv: The raw dataset used for the analysis.
 
 -SALES DASHBOARD.pbix: The Power BI file containing the dashboard visualizations and data model.
