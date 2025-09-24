@@ -9,6 +9,7 @@ The dashboard visualizes sales data to answer critical business questions, inclu
 -Sales Trends: How have sales changed over time?
 
 -Regional Performance: Which regions are driving the most sales?
+
 -Product Performance: Which product categories are most profitable?
 
 -Sales Channel Effectiveness: Are online or retail channels performing better?
